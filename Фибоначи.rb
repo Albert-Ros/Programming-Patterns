@@ -9,4 +9,4 @@ f1=f2
 f2=fib
 i+=1
 end
-puts fib
+puts(fib)
